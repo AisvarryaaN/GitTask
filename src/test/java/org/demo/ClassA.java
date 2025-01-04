@@ -25,4 +25,16 @@ public class ClassA {
 	private void usa() {
 		System.out.println("USA");
 	}
+
+	private void method4() {
+		System.out.println("Method 4");
+	}
+
+	private void method5() {
+		System.out.println("Method 5");
+	}
+
+	private void method6() {
+		System.out.println("Method 6");
+	}
 }
