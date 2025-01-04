@@ -14,6 +14,18 @@ public class ClassA {
 		System.out.println("Method 3");
 	}
 
+	private void india() {
+		System.out.println("IND");
+	}
+
+	private void australia() {
+		System.out.println("AUS");
+	}
+
+	private void usa() {
+		System.out.println("USA");
+	}
+
 	private void method4() {
 		System.out.println("Method 4");
 	}
@@ -25,5 +37,4 @@ public class ClassA {
 	private void method6() {
 		System.out.println("Method 6");
 	}
-
 }
